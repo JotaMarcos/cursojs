@@ -1,0 +1,11 @@
+/*var contador = 1
+while(contador <= 6){
+    console.log(`Passo ${contador}`)
+    contador++
+}*/
+
+// ----------------------------------------------
+
+for(var contador = 1; contador <= 1000000000; contador++){
+    console.log(`Passo ${contador}`)
+}
